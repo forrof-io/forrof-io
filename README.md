@@ -1,47 +1,59 @@
-# 👋 Welcome to Forrof.io  
+<div align="center">
 
-At **Forrof**, we’re more than just a software agency — we’re partners in turning your ideas into impactful digital solutions.  
-Our mission is simple: **build technology that truly works for people, not just for systems.**
+# Forrof
 
----
+### AI-First Software Development Agency
 
+We build production-grade AI systems and full-stack platforms — from intelligent agents and multi-agent architectures to scalable SaaS products.
 
-## 🚀 What We Do  
+[Website](https://forrof.io) · [LinkedIn](https://www.linkedin.com/company/forrof) · [Contact Us](mailto:hello@forrof.io)
 
-We work with **startups** and **enterprises** alike, creating software that’s not only functional but also meaningful.  
-Our experience spans industries including:  
-
-- 🌐 e-Governance  
-- 🚛 Logistics  
-- 🍴 Food & Hospitality  
-- 🏢 Real Estate  
-- 👩‍💼 HRMS  
-- ⚖️ Legal  
-- 🎉 Event Management  
+</div>
 
 ---
 
-## 💡 Our Values  
+## What We Do
 
-✨ **Tailored Software, Not Templates**  
-Every product we build is unique, designed around your goals and challenges.  
+We go beyond prototypes. Forrof delivers end-to-end software solutions with a focus on **autonomous AI systems** and **enterprise-grade applications**.
 
-🎨 **Design That Connects**  
-Great software is more than code — it’s intuitive, beautiful, and enjoyable to use.  
+**AI & Intelligent Systems**
+- Agentic AI & multi-agent system development
+- LLM integration, RAG pipelines & document intelligence
+- AI strategy consulting & proof-of-concept development
+- Domain-specific chatbots & workflow automation
 
-📈 **Solutions That Grow With You**  
-From small teams to global enterprises, we build with scalability and resilience at the core.  
+**Software & Product Engineering**
+- Full-stack SaaS & web application development
+- Mobile app development (iOS & Android)
+- Cloud infrastructure, DevOps & CI/CD
+- UI/UX design & branding
 
-🔐 **Trust & Reliability**  
-Security, performance, and long-term support aren’t extras — they’re built into everything we deliver.  
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages & Frameworks** | Python · FastAPI · TypeScript · Next.js · React · Node.js |
+| **AI & LLMs** | OpenAI · Anthropic Claude · Google Gemini · LangChain · LangGraph · CrewAI |
+| **Vector Databases** | Pinecone · Weaviate · Qdrant |
+| **Cloud & DevOps** | AWS · GCP · Azure · Docker · CI/CD |
+| **Mobile** | React Native · Flutter |
 
 ---
 
-## 🤝 Work With Us  
+## Industries We Serve
 
-At **Forrof.io**, we keep things transparent, collaborative, and human.  
-No jargon-filled promises — just a passionate team solving real problems with technology.  
-
-📬 Let’s build something meaningful together: **[hello@forrof.io](mailto:hello@forrof.io)**  
+E-Governance · Logistics · Food & Hospitality · Real Estate · HRMS · Legal · Event Management
 
 ---
+
+## Work With Us
+
+We keep things transparent, collaborative, and results-driven. Whether you're a startup building your first product or an enterprise integrating AI into existing workflows — we're ready.
+
+**hello@forrof.io** · [forrof.io](https://forrof.io)
+
+<div align="center">
+<sub>Amityville, NY · Lahore, PK</sub>
+</div>
